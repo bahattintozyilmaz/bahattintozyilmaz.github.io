@@ -1,11 +1,11 @@
 ---
 title: (Late) New Year's resolutions
-published: false
+published: true
 ---
 
 Everyone does new year's resolutions, right. You go and find some goal for the coming year and stick to it. Some people(like me), set the goal of losing weight. Some set a goal to learn a new language, go visit some place or reading more books. Well I do this a bit... differently.
 
-In the professional world, we also set goals. Like "Project X will be ready on MAy 15 and decrease manual toil by 10%". If I can do that for _my work_, why wouldn't I do detailed plans **for myself** too. I will select multiple resolutions, put deadlines on them and define outcomes. I'll go one step further and plan them by quarter, so it will be easier to keep track and make sure I won't fail them miserably.
+In the professional world, we also set goals. Like "Project X will be ready on May 15 and decrease manual toil by 10%". If I can do that for _work_, why wouldn't I do detailed plans **for myself** too. I will select multiple resolutions, put deadlines on them and define outcomes. I'll go one step further and plan them by quarter, so it will be easier to keep track and make sure I won't fail them miserably.
 
 So there it goes, new year's resolutions in style of baha:
 
