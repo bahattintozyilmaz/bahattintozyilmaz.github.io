@@ -88,10 +88,10 @@ analytics:
 # Site Author
 author:
   name             : "Bahattin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "soy un perdedor."
-  location         : "Somewhere"
-  email            : "bahattin@tozyilmaz.com"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Engineer/Maker/Learner"
+  location         : "Palo Alto, CA"
+  email            : "bahattintozyilmaz@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "kertenkeley"
+  twitter          :
   vine             :
   weibo            :
   xing             :
